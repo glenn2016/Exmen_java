@@ -42,5 +42,26 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 
+
 🚀 Lancer l'application
 mvn spring-boot:run
+```
+TEst 
+
+![Aperçu](1.png)
+
+![Aperçu](2.png)
+
+![Aperçu](3.png)
+
+![Aperçu](4.png)
+
+![Aperçu](5.png)
+
+![Aperçu](6.png)
+
+![Aperçu](7.png)
+
+![Aperçu](8.png)
+
+![Aperçu](9.png)
